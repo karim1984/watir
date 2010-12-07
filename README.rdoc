@@ -12,6 +12,7 @@ Gem:: https://rubygems.org/gems/safariwatir
 Gem:: https://rubygems.org/gems/watir-webdriver
 Gem:: https://rubygems.org/gems/celerity
 
+
 == Install
 
 You have to install Ruby and RubyGems first. To be able to drive Firefox you have to install Firefox add-on. Detailed installation instructions are at http://watir.com/installation
