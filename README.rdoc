@@ -99,3 +99,5 @@ Checking for text in a page
 Checking the title of a page
 
   puts browser.title == "Thanks!"
+
+
